@@ -5,7 +5,8 @@ clone coding instagram
 
 - [x] Create account
 - [x] request Secret
-- [] Confirm Secret
+- [x] Confirm Secret
+- [x] Post Like and comment
 - [ ] Log in
 - [ ] Like / Unlike a photo
 - [ ] Comment on a photo

@@ -3,7 +3,7 @@ import "./env";
 import logger from "morgan";
 import schema from "./schema";
 import { GraphQLServer } from "graphql-yoga";
-
+import "./passport";
 
 import{ authenticateJwt } from "./passport";
 
