@@ -42,3 +42,12 @@ type File {
   url: String!
   post: Post!
 }
+type UserProfile{
+    user: User!
+    post: [Post!]
+}
+type FullPost{
+    post: Post!
+    comments: [Comment!]!
+    likeCount: Int!
+}  
